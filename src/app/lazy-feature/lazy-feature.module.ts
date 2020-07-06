@@ -1,4 +1,4 @@
-import { NgModule } from '@angular/core';
+import {NgModule} from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { LazyFeatureComponent } from './lazy-feature.component';
 import {RouterModule} from '@angular/router';
@@ -12,4 +12,4 @@ import {RouterModule} from '@angular/router';
       ])
   ]
 })
-export class LazyFeatureModule { }
+export class LazyFeatureModule {}
