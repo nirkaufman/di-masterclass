@@ -12,5 +12,4 @@ import {EagerFeatureModule} from './eager-feature/eager-feature.module';
   providers: [],
   bootstrap: [AppComponent]
 })
-export class AppModule {
-}
+export class AppModule {}
